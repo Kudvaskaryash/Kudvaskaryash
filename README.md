@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kudvaskar yash
 - BSc IT Student
-- Studying in FY
+- Studying in SY
 
 <!---
 Kudvaskaryash/Kudvaskaryash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
